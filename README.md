@@ -5,9 +5,9 @@ The repository where I show my Data Science projects solutions related to Web Sc
 
 ## Find me here
 
-* [Linkedin](https://linkedin.com/in/dspauloplima)
-* [WebPage](https://dspauloplima.github.io)
-* [Medium](https://dspauloplima.medium.com)
+* [Linkedin](https://linkedin.com/in/pplpauloo)
+* [WebPage](https://pplpauloo.github.io)
+* [Medium](https://pplpauloo.medium.com)
 * [Youtube](https://www.youtube.com/channel/UCYWAGd2hiipE0pg8h9tieIw)
 
 ## Projects
